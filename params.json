@@ -1,0 +1,6 @@
+{
+  "name": "Restfull-apis",
+  "tagline": "Communication APIs for Bulk SMS, Two-Factor Authentication, and Number Lookup",
+  "body": "# Communication Platform APIs\r\n\r\n[Cequens](http://www.cequens.com) is a global Communication Platform as a Service (CPaaS) company that offers developers APIs for messaging, video, and voice services for Bulk SMS, two-factor authentication, and number lookup.\r\n\r\nFor API references and examples, visit [api.cequens.com/docs](http://api.cequens.com/docs)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
